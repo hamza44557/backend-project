@@ -1,0 +1,3 @@
+mongodb
+user name= aameerhamzahamza1_db_user 
+password bankend project = Mjtl57CqPzFSYMjW
